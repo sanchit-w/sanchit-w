@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=root%40sanchit-w%3A~%24+whoami;sanchit-w+%E2%80%94+builder+%2F+tinkerer;root%40sanchit-w%3A~%24+ls+skills%2F;loading...+%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%5D+100%25" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=400&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=root%40sanchit-w%3A~%24+whoami;sanchit-w+%E2%80%94+builder+%2F+tinkerer;root%40sanchit-w%3A~%24+ls+skills%2F;loading...+%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%5D+100%25" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=sanchit-w&label=PROFILE+VIEWS&color=39FF14&style=flat-square&labelColor=0D1117" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/sanchit-w?label=FOLLOWERS&style=flat-square&color=39FF14&labelColor=0D1117" alt="followers"/>
